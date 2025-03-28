@@ -1,6 +1,4 @@
 hi im arun gautam
-
-and amit mourya
 # Pre  requisites
 #
 - JDK 11 
