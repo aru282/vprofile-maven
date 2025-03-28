@@ -1,4 +1,4 @@
-aaa
+
 # Prerequisites
 #
 - JDK 11 
